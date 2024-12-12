@@ -1,8 +1,8 @@
 # stack
 
-press space to place a block
-try to get the block entirely on top of the stack
-the first block can go anywhere
+<p>press space to place a block<br>
+try to get the block entirely on top of the stack<br>
+the first block can go anywhere</p>
 
 
 
